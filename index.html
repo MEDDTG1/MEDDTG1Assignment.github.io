@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="Assets/styles.css" />
+    <title>Assignment 1</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <img id="image" src="Assets/Images/Banner.jpg" alt="Banner" />
+        <img
+          id="logo"
+          src="Assets/Images/logo.png"
+          alt="Logo"
+          class="bottom-left2"
+        />
+        <div class="bottom-left">Tunes</div>
+      </div>
+    </header>
+
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="Contact.html">Contact</a>
+    </nav>
+
+    <br />
+    <b>Recently Played</b>
+    <br />
+    <div id="table"></div>
+    <br />
+    <b>Artists</b>
+    <br />
+    <div id="artists"></div>
+    <div id="artists2"></div>
+    <br />
+    <b>Top tracks</b>
+    <br />
+    <div id="tracks"></div>
+
+    <div class="para" id="para"></div>
+    <form class="info">
+      <textarea
+        id="comment"
+        name="comment"
+        maxlength="400"
+        cols="75"
+        rows="8"
+      ></textarea>
+      <label for="comment">Comment</label>
+      <br />
+      <input id="name" type="text" name="name" />
+      <label for="name">Name</label>
+      <br />
+      <input
+        type="button"
+        onclick="getcomment()"
+        value="Post Comment"
+        name="button"
+      />
+      <br />
+    </form>
+
+    <footer>
+      Site Name Contact Copyright Example 2020 - 2020
+    </footer>
+    <script src="Assets/javascript.js"></script>
+  </body>
+</html>

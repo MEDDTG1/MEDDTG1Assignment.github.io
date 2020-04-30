@@ -1,0 +1,12 @@
+[
+    {"Slot":"1", "Image":"Assets/Images/Earthquake.jpg", "Name":"Earthquake", "Artist":"Tyler, The Creator", "Listens":"7635"},        
+    {"Slot":"2", "Image":"Assets/Images/FlowerBoy.jpg", "Name":"See You Again", "Artist":"Tyler, The Creator", "Listens":"6425"},
+    {"Slot":"3", "Image":"Assets/Images/RNP.jpg", "Name":"RNP", "Artist":"YBN Cordae", "Listens":"6231"},
+    {"Slot":"4", "Image":"Assets/Images/HotelDiablo.jpg", "Name":"I Think I'm OKAY", "Artist":"Machine Gun Kelly, YUNGBLUD, Travis Barker", "Listens":"5936"},
+    {"Slot":"5", "Image":"Assets/Images/FlowerBoy.jpg", "Name":"Who Dat Boy", "Artist":"Tyler, The Creator", "Listens":"5725"},
+    {"Slot":"6", "Image":"Assets/Images/Rainy.jpg", "Name":"Rainy Days", "Artist":"Boogie", "Listens":"5157"},
+    {"Slot":"7", "Image":"Assets/Images/HotelDiablo.jpg", "Name":"Candy", "Artist":"Machine Gun Kelly", "Listens":"4816"},
+    {"Slot":"8", "Image":"Assets/Images/HotelDiablo.jpg", "Name":"Roulette", "Artist":"Machine Gun Kelly", "Listens":"4218"},
+    {"Slot":"9", "Image":"Assets/Images/Pretender.jpg", "Name":"Pretender", "Artist":"Foo Fighters", "Listens":"4103"},
+    {"Slot":"10", "Image":"Assets/Images/Sky.jpg", "Name":"The Sky Is A Neighborhood", "Artist":"Foo Fighters", "Listens":"3967"}
+]

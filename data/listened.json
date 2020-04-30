@@ -1,0 +1,10 @@
+[
+    {"Image":"Assets/Images/FlowerBoy.jpg", "Name":"Foreword", "Artist":"Tyler, The Creator", "Listened":"Listening Now"},        
+    {"Image":"Assets/Images/FlowerBoy.jpg", "Name":"See You Again", "Artist":"Tyler, The Creator", "Listened":"4 minutes ago"},
+    {"Image":"Assets/Images/FlowerBoy.jpg", "Name":"Where This Flower Blooms", "Artist":"Tyler, The Creator", "Listened":"9 minutes ago"},
+    {"Image":"Assets/Images/FlowerBoy.jpg", "Name":"Boredom", "Artist":"Tyler, The Creator", "Listened":"13 minutes ago"},
+    {"Image":"Assets/Images/FlowerBoy.jpg", "Name":"Who Dat Boy", "Artist":"Tyler, The Creator", "Listened":"18 minutes ago"},
+    {"Image":"Assets/Images/HotelDiablo.jpg", "Name":"el Diablo", "Artist":"Machine Gun Kelly", "Listened":"25 minutes ago"},
+    {"Image":"Assets/Images/HotelDiablo.jpg", "Name":"Roulette", "Artist":"Machine Gun Kelly", "Listened":"47 minutes ago"},
+    {"Image":"Assets/Images/HotelDiablo.jpg", "Name":"Glass House", "Artist":"Machine Gun Kelly", "Listened":"1 hour ago"}
+]
